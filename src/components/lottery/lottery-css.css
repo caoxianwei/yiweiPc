@@ -1,0 +1,609 @@
+.lottery{
+	width: 1213px;
+	height: 900px;
+	background: url(../../images/imgBeiJing.png);
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 85px;
+}
+.logos{
+	position: absolute;
+	top: 10px;
+	left: 48px;
+}
+.show-time-size{
+	position: absolute;
+	left: 220px;
+	top: 12px;
+}
+.show-openum-size{
+	width: 687px;
+	position: absolute;
+	left: 500px;
+	top: 10px;
+}
+.select-gameplay{
+	width: 812px;
+	height: 87px;
+	position: absolute;
+	top: 153px;
+	left: 38px;
+}
+.game-record{
+	height: 210px;
+	width: 322px;
+	position: absolute;
+	right: 23px;
+	top: 153px;
+}
+.yilou-size{
+	height: 24px;
+	width: 390px;
+	top: 255px;
+	left: 51px;
+	position: absolute;
+	font-family: SimSun, 宋体, STSong, 华文宋体;
+	font-weight:bold;
+}
+.yilou-but{
+	line-height: 23px;
+	display: inline-block;
+	cursor:pointer;
+	position: absolute;
+	top: 1px;
+	left: 2px;
+	height: 23px;
+	width: 86px;
+	color: #ededed;
+}
+.lengre-but-r {
+    color: #ededed;
+    font-family: SimSun, 宋体, STSong, 华文宋体;
+    font-weight: bold;
+    display: inline-block;
+    width: 55px;
+    background-color: #a2a2a2;
+    border-radius: 15px;
+}
+
+.yilou-but-r {
+	color: #ededed;
+	font-family: SimSun, 宋体, STSong, 华文宋体;
+	font-weight: bold;
+	display: inline-block;
+	width: 90px;
+	background-color: #a2a2a2;
+	border-radius: 15px;
+}
+
+.lengre-content-bg {
+	margin-left: 200px;
+    height: 31px;
+    line-height: 25px;
+    background-color: #eff0f1;
+    margin-top: -1px;
+}
+.lenre-but{
+	line-height: 23px;
+	display: inline-block;
+	cursor:pointer;
+	position: absolute;
+	top: 1px;
+	left: 74px;
+	height: 23px;
+	width: 86px;
+	color: #ededed;
+}
+.nowyilou-but{
+	line-height: 23px;
+	display: inline-block;
+	cursor:pointer;
+	position: absolute;
+	top: 1px;
+	left: 216px;
+	height: 23px;
+	width: 86px;
+	color: #ededed;
+}
+.bigyilou-but{
+	line-height: 23px;
+	display: inline-block;
+	cursor:pointer;
+	position: absolute;
+	top: 1px;
+	left: 302px;
+	height: 23px;
+	width: 86px;
+	color: #ededed;
+}
+.example{
+	height: 25px;
+	line-height: 25px;
+	width: 257px;
+	top: 253px;
+	left: 593px;
+	position: absolute;
+}
+.example-bg{
+	color: #424242;
+	cursor:pointer;
+	display: inline-block;
+	padding-left: 20px;
+	width: 50px;
+}
+.font-color-80{
+	color: #808080;
+}
+.select-num{
+	position: absolute;
+	height: 334px;
+	width: 846px;
+	top: 291px;
+	left: 4px;
+}
+.add-num{
+	width: 323px;
+	height: 393px;
+	position: absolute;
+	top: 375px;
+	right: 23px;
+}
+.jiangjin{
+	color: #424242;
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+	float: left;
+	margin-top: 3px;
+	margin-left: 55px;
+}
+.fandian{
+	color: #424242;
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+	float: right;
+	margin-top: 3px;
+	margin-right: 55px;
+}
+.slider{
+	width: 202px;
+	position: absolute;
+	top: 35px;
+	right: 62px;
+}
+.jianhao{
+	cursor:pointer;
+	height: 32px;
+	width: 32px;
+	position: absolute;
+	top: 39px;
+	left: 18px;
+	background-image: url(../../images/btnJianHao01.png);
+}
+.jiahao{
+	cursor:pointer;
+	height: 32px;
+	width: 32px;
+	position: absolute;
+	top: 39px;
+	left: 270px;
+	background-image: url(../../images/btnJiaHao01.png);
+}
+.fandianzuigao{
+	cursor:pointer;
+	width: 104px;
+	height: 30px;
+	position: absolute;
+	top: 80px;
+	left: 57px;
+	background-image: url(../../images/btnFanDianZuiGao01.png);
+}
+.fandianzuigao:hover{
+	background-image: url(../../images/btnFanDianZuiGao02.png);
+}
+.fandian-light{
+	background-image: url(../../images/btnFanDianZuiGao03.png)!important;
+}
+.jiangjinzuigao{
+	cursor:pointer;
+	width: 104px;
+	height: 30px;
+	position: absolute;
+	top: 80px;
+	left: 160px;
+	background-image: url(../../images/btnJiangJingZuiGao01.png);
+}
+.jiangjinzuigao:hover{
+	background-image: url(../../images/btnJiangJingZuiGao02.png);
+}
+.jiangjin-light{
+	background-image: url(../../images/btnJiangJingZuiGao03.png)!important;
+}
+.jiesuan{
+	width: 100%;
+	position: absolute;
+	top: 123px;
+	color: #1d1d1d;
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+}
+.jiesuan span{
+	color: #f13118;
+}
+.tongji{
+	width: 100%;
+	position: absolute;
+	top: 260px;
+	color: #1d1d1d;
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+}
+.tongji span{
+	color: #f13118;
+}
+.add-select-num{
+	cursor:pointer;
+	color: white;
+	line-height: 43px;
+	height:43px;
+	width: 114px;
+	position: absolute;
+	top: 200px;
+	left: 35px; 
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+}
+.pc-select-num{
+	cursor:pointer;
+	color: white;
+	line-height: 43px;
+	height:43px;
+	width: 114px;
+	position: absolute;
+	top: 200px;
+	right: 35px; 
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+}
+.bet-operation{
+	height: 79px;
+	width: 269px;
+	position: absolute;
+	bottom: 20px;
+	left: 25px;
+}
+.sure-betting{
+	height: 75px;
+	width: 167px;
+	background-image: url(../../images/btnQueRenTouZhu01.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 2px;
+	right: 2px;
+}
+.sure-betting:hover{
+	background-image: url(../../images/btnQueRenTouZhu02.png);
+}
+.clear-list{
+	position: absolute;
+	top: 14px;
+	left: 26px;
+}
+.sure-bet-size{
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+	cursor:pointer;
+	color: #f3f3f5;
+	text-shadow: 1px 1px 1px black;
+}
+.sure-bet-size:hover{
+	color: #fbf793;
+}
+.bet-add{
+	position: absolute;
+	top: 42px;
+	left: 26px;
+}
+.select-num-list{
+	color: #424242;
+	width: 822px;
+	height: 120px;
+	position: absolute;
+	top: 643px;
+	left: 29px;
+	overflow: hidden;
+}
+.show-list-box{
+	font-family: SimSun, 宋体, STSong, 华文宋体;
+	border-top: 1px solid transparent;
+	height: 29px;
+	line-height: 30px;
+}
+.show-list-box:hover{
+	background-color: rgb(236, 236, 236);
+}
+.list-num-box{
+	display: inline-block;
+	width: 90px;
+}
+.list-select-num{
+	display: inline-block;
+	width: 200px;
+}
+.show-list-details{
+	cursor:pointer;
+	border: 1px solid transparent;
+	display: inline-block;
+	padding: 0 5px;
+	height: 20px;
+    line-height: 22px;
+}
+.show-list-details:hover{
+	border: 1px solid rgb(204, 113, 16);
+	color: rgb(204, 113, 16);
+}
+.list-delite{
+	float: left;
+	display: inline-block;
+}
+.yuan-type{
+	height: 26px;
+	width: 100px;
+	position: absolute;
+	top: 158px;
+	right: 20px;
+}
+.betting-multiple{
+	color: #424242;
+	line-height: 26px;
+	height: 26px;
+	width: 182px;
+	position: absolute;
+	top: 159px;
+	left: 10px;
+}
+.multiple-l{
+	position: absolute;
+	left: 0;
+}
+.multiple-r{
+	position: absolute;
+	right: 3px;
+}
+.multiple-jianhao{
+	cursor:pointer;
+	height: 26px;
+	width: 26px;
+	background-image: url(../../images/btnJian01.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 30px;
+}
+.multiple-jianhao:hover{
+	background-image: url(../../images/btnJian02.png);
+}
+.multiple-jiahao{
+	cursor:pointer;
+	height: 26px;
+	width: 26px;
+	background-image: url(../../images/btnJia01.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	right: 20px;
+}
+.multiple-jiahao:hover{
+	background-image: url(../../images/btnJia02.png);
+}
+.multiple-num{
+	height: 22px;
+	line-height: 22px;
+	width: 75px;
+	position: absolute;
+	left: 58px;
+	top: 0px;
+}
+.betting-multiple .el-input__inner{
+	height: 26px;
+}
+.el-select-dropdown__item{
+	height: 30px;
+	line-height: 20px;
+	padding: 5px 10px;
+}
+.input-size{
+	margin: 40px auto 0;
+}
+#deleteImg{
+	cursor:pointer;
+}
+
+.cai-name-stl {
+	font-family: SimHei, 黑体, STHeiti, 华文黑体;
+	width: 190px;
+	display: inline-block;
+	margin-left: 20px;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 116px;
+	color: #555555;
+	font-weight: bold;
+}
+.bet-dialog-detail{
+	display: inline-block;
+	border: 1px solid #c7c9cb;
+	background-color: #ffffff;
+	height: 100px;
+	width: 480px;
+	border-radius: 5px;
+}
+.bet-dialog-detail-p {
+	padding-left: 15px;
+}
+.sure-betting-input .el-dialog--small{
+	top: 20%!important;
+	border-radius: 5px;
+	width: 610px;
+}
+.sure-betting-input .el-form-item{
+	margin-bottom: 0px;
+}
+.sure-betting-input .el-dialog__header{
+	background-color: #b1b5c0;
+	border-radius: 5px 5px 0 0;
+    padding: 10px 20px;
+}
+.sure-betting-input .el-dialog__title {
+    color: #f8f8f8;
+}
+.sure-betting-input .el-dialog__close{
+    color: #f7f5f8;
+}
+.sure-betting-input .el-dialog__close:hover{
+    color: white;
+}
+.sure-betting-input .el-dialog__footer{
+	padding: 10px 20px;
+	background-color: #e6e6f0;
+	border-radius: 0 0 5px 5px
+}
+.sure-betting-input .el-dialog__body {
+	background-color: #f6f9fe;
+	font-family: SimSun, 宋体, STSong, 华文宋体;
+}
+.sure-betting-sure{
+	cursor:pointer;
+	display: inline-block;
+	height: 35px;
+	width: 73px;
+	background-image: url(../../images/btnQueding.png);
+	background-repeat: no-repeat;
+}
+.sure-betting-sure:hover{
+	background-image: url(../../images/btnQueding_dianji.png);
+}
+.sure-betting-cancel{
+	cursor:pointer;
+	display: inline-block;
+	height: 35px;
+	width: 73px;
+	background-image: url(../../images/btnQuxiao.png);
+	background-repeat: no-repeat;
+}
+.sure-betting-cancel:hover{
+	background-image: url(../../images/btnQuxiao_dianji.png);
+}
+.bet-over-input .el-dialog--small{
+	width: 470px;
+	top: 32%!important;
+}
+.bet-over-input-prompt{
+	margin-left: 10px;
+	display: inline-block;
+	text-align: left;
+}
+.my-zhuihao-size .el-dialog--small{
+	width: 563px;
+	height: 563px;
+	top: 20%!important;
+	border-radius: 5px;
+}
+.my-zhuihao-size .el-dialog__body {
+    padding: 0px 10px;
+	background-color: #f6f9fe;
+}
+.my-zhuihao-size .el-dialog__header{
+	background-color: #b1b5c0;
+	border-radius: 5px 5px 0 0;
+    padding: 10px 20px;
+}
+.my-zhuihao-size .el-dialog__title {
+    color: #f7f5f8;
+}
+.my-zhuihao-size .el-dialog__footer{
+	padding: 10px 20px;
+	background-color: #e6e6f0;
+	border-radius: 0 0 5px 5px
+}
+.my-zhuihao-size .el-dialog__close{
+    color: #f7f5f8;
+}
+.my-zhuihao-size .el-dialog__close:hover{
+    color: white;
+}
+.applyZhuihao{
+	cursor:pointer;
+	display: inline-block;
+	height: 35px;
+	width: 86px;
+	background-image: url(../../images/btnTijiao.png);
+	background-repeat: no-repeat;
+}
+.applyZhuihao:hover{
+	background-image: url(../../images/btnTijiao_dianji.png);
+}
+.liuhecai-size{
+	background-image: url(../../images/imgTiHuanBeiJing-Yi.png);
+	background-repeat: no-repeat;
+	width: 851px;
+	height: 622px;
+	position: absolute;
+	top: 153px;
+    left: 4px;
+}
+.liuhecai-openum-size{
+	width: 690px;
+	height: 146px;
+	position: absolute;
+	left: 500px;
+	top: 4px;
+	background-image: url(../../images/imgKaiJiangJieGuoBeiJing.png);
+	background-repeat: no-repeat;
+}
+.lhc-show-box{
+	width: 100%;
+    height: 527px;
+    position: absolute;
+    top: 87px;
+}
+.add-num-lhc{
+	background-image: url(../../images/imgTiHuanBeiJing-Er.png);
+	background-repeat: no-repeat;
+	width: 351px;
+	height: 407px;
+	position: absolute;
+	top: 370px;
+	right: 4px;
+}
+
+.cover-leak {
+	height: 35px;
+    width: 390px;
+    top: 250px;
+    left: 50px;
+    position: absolute;
+    background-color: #eff0f1;
+    opacity: 1;
+}
+
+.my-lottery-slider .el-slider__button{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: white;
+}
+.my-lottery-slider .el-slider__button.hover{
+    transform: scale(1);
+    background-color: white;
+}
+.my-lottery-slider .el-slider__runway{
+    background-color: #554c39;
+}
+.my-lottery-slider .el-slider__button.dragging{
+    transform: scale(1);
+    background-color: white;
+}
+.my-lottery-slider .el-slider__bar{
+    height: 9px;
+    background-color: #554c39;
+}
+.my-lottery-slider .el-slider__runway{
+    height: 9px;
+}
+.my-lottery-slider .el-slider__button-wrapper .el-tooltip{
+    position: relative;
+    top: 2px;
+}

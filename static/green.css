@@ -1,0 +1,270 @@
+.container-bg {
+    background-image: url('./images/green/imgBeiJing.jpg');
+    background-repeat: no-repeat;
+}
+
+.container-bg-color {
+    background-color: #e8e8e6;
+}
+
+.footer-bg {
+    background-color: #177C85;
+}
+.top {
+    background-color: rgb(18,85,91);
+}
+.border-top{
+	border-top: 4px solid rgb(9, 143, 151)!important;
+	color: rgb(9, 143, 151)!important;
+}
+.yilou-bg{
+	background-image: url('./images/green/btnHuaDongDe.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+	color: #fff!important;
+}
+
+.example-img {
+	background-image: url('./images/green/imgTanHao.png');
+	background-repeat: no-repeat;
+	background-position:0px 3px;
+}
+
+.help-img{
+    background-image: url('./images/green/imgWenHao.png');
+    background-repeat: no-repeat;
+    background-position:0px 3px;
+}
+
+.ad-slide-bg {
+    background-image: url('./images/green/imgGuangGaoQu.jpg');
+    background-repeat: no-repeat;
+}
+
+.jiantou-img{
+	background-image: url('./images/green/imgJianTou.png');
+	background-repeat: no-repeat;
+	height: 29px;
+	width: 77px;
+	float: left;
+	margin-top: 14px;
+}
+.tanBox1 {
+	background-image: url('./images/green/imgCaiPiaoXuanZeBeiJing.jpg');
+}
+.tanBox4 {
+	background-image: url('./images/green/imgXiaZaiZhongXinBg.jpg');
+}
+.tianjia-haoma{
+	background-image: url('./images/green/btnLan01.png');
+	background-repeat: no-repeat;
+}
+.tianjia-haoma:hover{
+	background-image: url('./images/green/btnLan02.png');
+}
+.sure-bet-bg{
+	background-image: url('./images/green/imgQueRenTouZhuDi.png');
+	background-repeat: no-repeat;
+}
+
+.lottery-arrow {
+    background-image: url('./images/green/imgSanJiao-CaiPiao.png');
+    width: 41px;
+    height: 22px;
+    position: absolute;
+    bottom: 299px;
+    z-index: 9999;
+}
+.lottery-arrow-downLoad {
+    background-image: url('./images/green/imgSanJiao-XiaZai.png');
+    width: 23px;
+    height: 13px;
+    position: absolute;
+    bottom: 136px;
+    z-index: 9999;
+}
+.lottery-arrow-tab {
+    background-image: url('./images/green/imgSanJiao-CaiPiao-Xia.png');
+    width: 39px;
+    height: 21px;
+    position: absolute;
+    bottom: -20px;
+    z-index: 9999;
+}
+.yuan-type-but{
+	cursor:pointer;
+	font-family: SimHei;
+	float: left;
+	margin-left: 5px;
+	line-height: 26px;
+	height: 26px;
+	width: 26px;
+	background-image: url('./images/green/btnFangKuai01.png');
+	background-repeat: no-repeat;
+}
+
+.yuan-type-but:hover{
+	color: white;
+	background-image: url('./images/green/btnFangKuai02.png');
+}
+.yuan-type-but-select{
+	background-image: url('./images/green/btnFangKuai03.png');
+}
+.userAccount {
+	background-image: url('./images/green/imgZhuangHuXinXiQu.jpg');
+}
+.btnMoneyIn {
+	background-image: url('./images/green/btnChongZhi.png');
+}
+.btnMoneyIn:hover {
+	background-image: url('./images/green/btnChongZhiClick.png');
+}
+.noticeModel {
+	background-image: url('./images/green/imgTongZhiXinXiLanBg.jpg');
+}
+.gameTab {
+	background-image: url('./images/green/imgCaiPiaoRuKouBg1.jpg');
+}
+
+.game-tab-left {
+    background-image: url('./images/green/imgShuTiao1.jpg');
+    background-position: 0 100%;
+    position: absolute;
+    width: 7px;
+    height: 380px;
+    z-index: 2000;
+}
+
+.game-tab-bottom {
+    background-image: url('./images/green/imgHengTiao1.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1201px;
+    height: 7px;
+    margin-left: 7px;
+    top: 373px;
+    background-size: cover;
+}
+
+.select-type-selected-bg-inner {
+    background-image: url('./images/green/imgShuTiao.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.select-type-dibu-bg-selected {
+    background-image: url('./images/green/imgLvSeDiBan.jpg');
+    background-repeat: no-repeat;
+}
+.el-select-dropdown__item.selected.hover{
+	background-color: #098f97;
+}
+.el-select-dropdown__item.selected{
+	background-color: #098f97;
+}
+.yuan-select-number{
+    background-image: url('./images/green/btnYuan03.png')!important;
+    background-repeat: no-repeat;
+}
+.button-size:hover{
+    background-image: url('./images/green/btnHanZi03.png')!important;
+    background-repeat: no-repeat;
+}
+
+.example-and-help {
+    background-image: url('./images/green/imgNeiRong.png');
+    background-repeat: no-repeat;
+}
+
+.style-font-color {
+    color: #098f97;
+}
+
+.lhcSx-bg{
+    background-image: url('./images/green/imgWenZiBeiJing_Lv.png');
+    background-repeat: no-repeat;
+}
+
+.cai1 {
+    background-image: url('./images/green/cai/cai1.png');
+    background-repeat: no-repeat;
+}
+
+.cai2 {
+    background-image: url('./images/green/cai/cai2.png');
+    background-repeat: no-repeat;
+}
+
+.cai3 {
+    background-image: url('./images/green/cai/cai3.png');
+    background-repeat: no-repeat;
+}
+
+.cai4 {
+    background-image: url('./images/green/cai/cai4.png');
+    background-repeat: no-repeat;
+}
+
+.cai5 {
+    background-image: url('./images/green/cai/cai5.png');
+    background-repeat: no-repeat;
+}
+
+.cai6 {
+    background-image: url('./images/green/cai/cai6.png');
+    background-repeat: no-repeat;
+}
+
+.cai7 {
+    background-image: url('./images/green/cai/cai7.png');
+    background-repeat: no-repeat;
+}
+
+.cai8 {
+    background-image: url('./images/green/cai/cai8.png');
+    background-repeat: no-repeat;
+}
+
+.cai9 {
+    background-image: url('./images/green/cai/cai9.png');
+    background-repeat: no-repeat;
+}
+
+.cai10 {
+    background-image: url('./images/green/cai/cai10.png');
+    background-repeat: no-repeat;
+}
+
+.cai11 {
+    background-image: url('./images/green/cai/cai11.png');
+    background-repeat: no-repeat;
+}
+
+.cai12 {
+    background-image: url('./images/green/cai/cai12.png');
+    background-repeat: no-repeat;
+}
+
+.cai13 {
+    background-image: url('./images/green/cai/cai13.png');
+    background-repeat: no-repeat;
+}
+
+.cai14 {
+    background-image: url('./images/green/cai/cai14.png');
+    background-repeat: no-repeat;
+}
+
+.cai15 {
+    background-image: url('./images/green/cai/cai15.png');
+    background-repeat: no-repeat;
+}
+
+.my-dialog-but-color .el-button--primary{
+    background-color: #098f97;
+    border-color: #098f97;
+}
+
+.b-c-setting {
+    background-color: #098f97;
+}
